@@ -4,7 +4,7 @@ My Jupyter notes while learning Pandas — simple explanations and examples for 
 
 ---
 
-A collection of my Jupyter Notebook notes while learning **Pandas** for data analysis.
+
 Includes simple explanations and examples for concepts like Series, DataFrames, indexing, and basic data operations.
 
 ---
