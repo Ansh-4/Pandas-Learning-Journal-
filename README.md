@@ -13,8 +13,11 @@ Includes simple explanations and examples for concepts like Series, DataFrames, 
 
 * Pandas Series
 * DataFrames
+* importing
 * Indexing & Selection
-* Basic Data Cleaning
+* Filtering
+* aggregation
+* Data Cleaning
 
 ---
 
